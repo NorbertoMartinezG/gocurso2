@@ -1,11 +1,16 @@
-// configuracion de acuerdo al curso :
-// https://youtube.com/playlist?list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp
-// https://www.youtube.com/watch?v=FeDZKgB13Qc&list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp&index=1&t=1s
-
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/NorbertoMG/gocurso2/clasesCurso"
+	// HAY QUE USAR EL SIG COMANDO EN TERMINAL PARA QUE DETECTE PAQUETES "go env -w GO111MODULE=auto"
+)
 
 func main() {
 	fmt.Println("hola")
+	fmt.Println("hola 33")
+
+	clasesCurso.FuncionPublicaIniciaConMayuscula()
+
 }
