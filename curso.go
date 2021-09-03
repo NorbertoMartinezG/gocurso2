@@ -13,6 +13,6 @@ func main() {
 	fmt.Println("Curso Go")
 	clasesCurso.FuncionPublicaIniciaConMayuscula()
 
-	clasesCurso.Valor_0()
+	clasesCurso.TipoDeDatoEjemplo()
 
 }
