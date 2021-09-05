@@ -11,8 +11,10 @@ import (
 func main() {
 
 	fmt.Println("Curso Go")
-	clasesCurso.FuncionPublicaIniciaConMayuscula()
+	//clasesCurso.FuncionPublicaIniciaConMayuscula()
 
-	clasesCurso.TipoDeDatoEjemplo()
+	//clasesCurso.TipoDeDatoEjemplo()
+
+	clasesCurso.Clase1301()
 
 }
