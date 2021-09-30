@@ -16,6 +16,6 @@ func main() {
 	//clasesCurso.TipoDeDatoEjemplo()
 
 	//clasesCurso.Clase1301()
-	clasesCurso.Clase2611()
+	clasesCurso.Clase2709()
 
 }
